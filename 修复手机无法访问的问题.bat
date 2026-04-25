@@ -1,1 +1,0 @@
-netsh advfirewall firewall add rule name="Flask5000" dir=in action=allow protocol=TCP localport=5000
